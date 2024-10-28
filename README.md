@@ -1,6 +1,7 @@
 # WEB-ASSISTANT
 webAssistant is a real-time conversational app designed for intelligent, dynamic information retrieval. Built with Langchain, LangGraph, Groq, and Tavily, it processes user queries through multi-source search and synthesis, providing accurate and contextually enriched responses by leveraging a graphical structure.
 ![screenshot](Graph.png)
+![screenshot](Search.png)
 # Overview
 This project aimed to create an AI-driven assistant capable of providing high-quality, real-time answers by sourcing data from  Wikipedia and Tavily Search. By combining these results and leveraging the power of the Groq large language model (LLM), the app delivers answers with reliability and contextual depth. This innovative approach combines language models with structured data management, providing an edge in intelligent information processing.
 # Key Features
